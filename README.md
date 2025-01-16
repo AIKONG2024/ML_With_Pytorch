@@ -1,2 +1,4 @@
+# 머신 러닝 교고서 파이토치편 정독
+### with.구룡이
+![IMG_1353 (1) (1)](https://github.com/user-attachments/assets/80e4e6f1-d82d-494e-863d-c52001e81203)
 
-![IMG_1353](https://github.com/user-attachments/assets/16885b1c-e9fa-4814-922e-110fdedfe54c)
